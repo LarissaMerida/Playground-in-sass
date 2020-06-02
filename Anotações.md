@@ -7,4 +7,5 @@ Tutorial 0
 - Salva com extensão .scss
 - Compilar: sass arquivo.scss:arquivo.css
 - Para atualizar automaticamente:  *sass --watch arquivo.scss:arquivo.css*
-- 
+
+  
