@@ -31,7 +31,9 @@
     padding: .6em;
     font-size: 1.2em;
     @include borda-arredondada(20px);
-    @extend %sombra-padrao;
+    // @extend %sombra-padrao;
     @include borda-mais-arredondada();
+    
+    @include box-shadow(black 0 2px 6.65px);
     font-weight: bold;
   }
